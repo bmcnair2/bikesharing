@@ -3,7 +3,7 @@
 [link to dashboard](https://public.tableau.com/app/profile/ben.mcnair/viz/NYCCitibikeAnalysis_16715715092350/Story1)
 
 ## Overview of Statistical Analysis
-The purpose for this project was analyzing bikeshare data from CitiBike in New York City for investors interested in beginning a bikeshare program in Des Moines, Iowa. While Iowa cannot compare to the fast-paced life of NYC, this analysis might help answer a few key questions:
+The purpose for this project is analyzing bikeshare data from CitiBike in New York City for investors interested in beginning a bikeshare program in Des Moines, Iowa. While Iowa cannot compare to the fast-paced life of NYC, this analysis might help answer a few key questions:
 - How long bikes are checked out for all riders and genders?
 - How many trips are taken by the hour for each day of the week, for all riders and genders?
 - A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
@@ -31,11 +31,9 @@ This heatmap of customers compared with subscribers reinforces how much of the u
 
 
 ## Summary
-Bikeshare services are very popular in busy metropolitan areas, where parking spaces and personal transportation may be scarce. The users are mostly male subscribers, providing consistent revenue to the program. Targeted outreach to attract female riders could be used, but males are a reliable market. The main usage seems focused around morning and evening commute times.
+Bikeshare services are very popular in busy cities, where parking spaces and personal transportation are scarce. The users are primarily male subscribers, providing consistent revenue to the program. Targeted outreach to attract female riders could be implemented, but males are a reliable market. The main usage seems focused around morning and evening commute times.
 
 Addition analysis that could be conducted are analyzing:
 
 - Starting and ending locations during morning and evening rush hour, to display traffic patterns between neighborhoods at busy hours;
 - Average trip length, by age, gender, exploring if there is a difference in gender or un-gendered riders as they age.
-
-

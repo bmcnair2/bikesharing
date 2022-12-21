@@ -9,3 +9,18 @@ The purpose for this project was analyzing bikeshare data from CitiBike in New Y
 - A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
 
 ## Results
+![webpage](https://github.com/bmcnair2/bikesharing/blob/main/time_of_trip.png)
+The number of trips by duration shows the majority of CitiBikes rides last less than an hour. Most trips are under a half-hour, with a dropoff in the number of rides over an hour in length.
+
+![webpage](https://github.com/bmcnair2/bikesharing/blob/main/male_female_triptime.png)
+This breakdown of the number of rides by duration by gender shows that males are the primary riders of Citibikes in NYC. 
+
+![webpage](https://github.com/bmcnair2/bikesharing/blob/main/weekday_heatmap.png)
+The heatmap displays weekly usage rider patterns. We see the most bike usage during weekday commute times around 8am and 5-6pm, and weekend usage is spread throughout the middle of the day. An outlier is the relatively low bike usage during Wednesday's end-of-day commute.
+
+![webpage](https://github.com/bmcnair2/bikesharing/blob/main/gender_heatmap.png)
+The heatmap based on gender shows relatively similar riding patterns between men and women. 
+
+![webpage](https://github.com/bmcnair2/bikesharing/blob/main/gender_consumer.png)
+This heatmap of customers compared with subscribers reinforces how much of the userbase is comprised of male subscribing users.
+

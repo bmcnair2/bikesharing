@@ -29,3 +29,13 @@ The heatmap based on gender shows relatively similar riding patterns between men
 
 This heatmap of customers compared with subscribers reinforces how much of the userbase is comprised of male subscribing users.
 
+
+## Summary
+Bikeshare services are very popular in busy metropolitan areas, where parking spaces and personal transportation may be scarce. The users are mostly male subscribers, providing consistent revenue to the program. Targeted outreach to attract female riders could be used, but males are a reliable market. The main usage seems focused around morning and evening commute times.
+
+Addition analysis that could be conducted are analyzing:
+
+- Starting and ending locations during morning and evening rush hour, to display traffic patterns between neighborhoods at busy hours;
+- Average trip length, by age, gender, exploring if there is a difference in gender or un-gendered riders as they age.
+
+
